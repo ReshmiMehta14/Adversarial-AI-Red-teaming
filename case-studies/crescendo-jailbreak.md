@@ -30,21 +30,21 @@ A crescendo jailbreak is a multi-step attack that gradually coaxes an AI into re
 
 ---
 
-## ⚠️ Security Risks
+## Security Risks
 - **Contextual Evasion:** Attacks go undetected in long conversations.
 - **Stepwise Leaks:** Sensitive info gets revealed gradually.
 - **Bypassing Filters:** AI fails to recognize malicious intent spread across prompts.
 
 ---
 
-## 🛡️ Mitigations
+## Mitigations
 - **Context-Aware Filtering:** Track and analyze full conversation threads.
 - **Intent Detection Models:** Flag multi-step adversarial behavior.
 - **Rate-Limiting Sensitive Topics:** Throttle repetitive queries about restricted content.
 
 ---
 
-## 📌 Takeaway
+## Takeaway
 This jailbreak shows that AI safety can’t just evaluate single prompts in isolation. Holistic, conversation-wide security is necessary.
 
 > "Evasion doesn’t always happen in one step. Sometimes it whispers."
