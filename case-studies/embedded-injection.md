@@ -7,9 +7,9 @@ This attack involves hiding malicious prompts inside documents, emails, or struc
 
 ## Attack Simulation
 **Test Content:**
--Last page of the document to summarise-
--<img width="424" alt="Screenshot 2025-04-10 at 10 49 00 PM" src="https://github.com/user-attachments/assets/751908f7-8c84-4279-95a8-4f42bc94383c" />
--Hidden Prompt in the last page of the document to summarise-
+- Last page of the document to summarise-
+- <img width="424" alt="Screenshot 2025-04-10 at 10 49 00 PM" src="https://github.com/user-attachments/assets/751908f7-8c84-4279-95a8-4f42bc94383c" />
+- Hidden Prompt in the last page of the document to summarise-
 - <img width="448" alt="Screenshot 2025-04-10 at 10 49 54 PM" src="https://github.com/user-attachments/assets/abb1ff92-a4db-4398-b123-3b141bcbba95" />
 
 
