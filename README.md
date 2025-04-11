@@ -8,7 +8,7 @@ This repository presents a hands-on overview of adversarial testing techniques u
 
 ---
 
-## 📌 Case Studies
+## 📌 Use Cases
 
 Explore how attacks were crafted and mitigated:
 
